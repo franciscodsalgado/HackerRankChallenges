@@ -1,0 +1,367 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="1453e104-cc09-4fc8-9d29-08df65522ca0" name="Default Changelist" comment="Loops II solved">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="ProjectId" id="1qcsa380kCbuqHJEhNx5DrFUYdH" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/.." />
+    <property name="project.structure.last.edited" value="Project" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.general" />
+  </component>
+  <component name="RunManager" selected="Application.LoopsII">
+    <configuration name="LoopsI" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.LoopsI" />
+      <module name="HackerRankChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="LoopsII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.LoopsII" />
+      <module name="HackerRankChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MiniMaxSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.MiniMaxSum" />
+      <module name="HackerRankChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="StdinStdoutII" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Java.StdinStdoutII" />
+      <module name="HackerRankChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TimeConversion" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="ProblemSolving.TimeConversion" />
+      <module name="HackerRankChallenges" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="ProblemSolving.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.LoopsII" />
+        <item itemvalue="Application.LoopsI" />
+        <item itemvalue="Application.StdinStdoutII" />
+        <item itemvalue="Application.MiniMaxSum" />
+        <item itemvalue="Application.TimeConversion" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="1453e104-cc09-4fc8-9d29-08df65522ca0" name="Default Changelist" comment="" />
+      <created>1617390272543</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1617390272543</updated>
+    </task>
+    <task id="LOCAL-00001" summary="Update README">
+      <created>1617392773412</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1617392773412</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Update README">
+      <created>1617393057487</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1617393057487</updated>
+    </task>
+    <task id="LOCAL-00003" summary="SolveMeFirst added">
+      <created>1617393078806</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1617393078806</updated>
+    </task>
+    <task id="LOCAL-00004" summary="Fix README and SolveMeFirst and added WelcomeToJava">
+      <created>1617393355923</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1617393355923</updated>
+    </task>
+    <task id="LOCAL-00005" summary="Update README and added files for every challenge">
+      <created>1617394940566</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1617394940566</updated>
+    </task>
+    <task id="LOCAL-00006" summary="Testing checkmark">
+      <created>1617395425090</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1617395425090</updated>
+    </task>
+    <task id="LOCAL-00007" summary="Testing checkmark">
+      <created>1617395477350</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1617395477350</updated>
+    </task>
+    <task id="LOCAL-00008" summary="Removed checkmark and changed emoji">
+      <created>1617395588785</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1617395588785</updated>
+    </task>
+    <task id="LOCAL-00009" summary="SolveMeFirst solved">
+      <created>1617396243335</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1617396243335</updated>
+    </task>
+    <task id="LOCAL-00010" summary="Update README">
+      <created>1617396797536</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1617396797536</updated>
+    </task>
+    <task id="LOCAL-00011" summary="SimpleArraySum solved">
+      <created>1617400243396</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1617400243396</updated>
+    </task>
+    <task id="LOCAL-00012" summary="Update README">
+      <created>1617411415456</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1617411415457</updated>
+    </task>
+    <task id="LOCAL-00013" summary="Compare The Triplets solved">
+      <created>1617411448453</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1617411448453</updated>
+    </task>
+    <task id="LOCAL-00014" summary="Very Big Sum solved">
+      <created>1617421502655</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1617421502655</updated>
+    </task>
+    <task id="LOCAL-00015" summary="Diagonal Difference solved">
+      <created>1617464486396</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1617464486396</updated>
+    </task>
+    <task id="LOCAL-00016" summary="Staircase solved">
+      <created>1617555551618</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1617555551618</updated>
+    </task>
+    <task id="LOCAL-00017" summary="Mini Max Sum solved">
+      <created>1617725804935</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1617725804935</updated>
+    </task>
+    <task id="LOCAL-00018" summary="Birthday Cake Candles solved">
+      <created>1617743166032</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1617743166032</updated>
+    </task>
+    <task id="LOCAL-00019" summary="Time Conversion solved">
+      <created>1618269593595</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1618269593595</updated>
+    </task>
+    <task id="LOCAL-00020" summary="PlusMinus solved">
+      <created>1618271023646</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1618271023646</updated>
+    </task>
+    <task id="LOCAL-00021" summary="IfElse solved">
+      <created>1618273125842</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1618273125842</updated>
+    </task>
+    <task id="LOCAL-00022" summary="Stdin Stdout II solved">
+      <created>1618277800855</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1618277800855</updated>
+    </task>
+    <task id="LOCAL-00023" summary="Output Formatting solved">
+      <created>1618278648101</created>
+      <option name="number" value="00023" />
+      <option name="presentableId" value="LOCAL-00023" />
+      <option name="project" value="LOCAL" />
+      <updated>1618278648101</updated>
+    </task>
+    <task id="LOCAL-00024" summary="Loops I solved">
+      <created>1618279213361</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1618279213361</updated>
+    </task>
+    <task id="LOCAL-00025" summary="Loops II solved">
+      <created>1618280114812</created>
+      <option name="number" value="00025" />
+      <option name="presentableId" value="LOCAL-00025" />
+      <option name="project" value="LOCAL" />
+      <updated>1618280114812</updated>
+    </task>
+    <option name="localTasksCounter" value="26" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="oldMeFiltersMigrated" value="true" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="SolveMeFirst added" />
+    <MESSAGE value="Fix README and SolveMeFirst and added WelcomeToJava" />
+    <MESSAGE value="Update README and added files for every challenge" />
+    <MESSAGE value="Testing checkmark" />
+    <MESSAGE value="Removed checkmark and changed emoji" />
+    <MESSAGE value="SolveMeFirst solved" />
+    <MESSAGE value="SimpleArraySum solved" />
+    <MESSAGE value="Update README" />
+    <MESSAGE value="Compare The Triplets solved" />
+    <MESSAGE value="Very Big Sum solved" />
+    <MESSAGE value="Diagonal Difference solved" />
+    <MESSAGE value="Staircase solved" />
+    <MESSAGE value="Mini Max Sum solved" />
+    <MESSAGE value="Birthday Cake Candles solved" />
+    <MESSAGE value="Time Conversion solved" />
+    <MESSAGE value="PlusMinus solved" />
+    <MESSAGE value="IfElse solved" />
+    <MESSAGE value="Stdin Stdout II solved" />
+    <MESSAGE value="Output Formatting solved" />
+    <MESSAGE value="Loops I solved" />
+    <MESSAGE value="Loops II solved" />
+    <option name="LAST_COMMIT_MESSAGE" value="Loops II solved" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.lang.NullPointerException" package="java.lang" />
+          <option name="timeStamp" value="1" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.InputMismatchException" package="java.util" />
+          <option name="timeStamp" value="5" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/HackerRankChallenges$StdinStdoutII.ic" NAME="StdinStdoutII Coverage Results" MODIFIED="1618277216359" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Java.*</FILTER>
+    </SUITE>
+  </component>
+</project>
